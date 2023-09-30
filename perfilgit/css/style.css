@@ -1,0 +1,33 @@
+.info {
+    position: absolute;
+    top: 25%;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 50%;
+    height: 120px;
+    background: #0d1117;
+    border: none;
+    border-radius: 5px;
+    text-overflow: ellipsis;
+}
+
+.text {
+    position: relative;
+    padding-left: 23px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.badges {
+    position: relative;
+    padding-left: 23px;
+    color: white;
+    font-family: sans-serif;
+    word-spacing: 23px;
+
+}
+
+.bd {
+    border-radius: 5px;
+}
